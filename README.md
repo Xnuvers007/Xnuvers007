@@ -1,8 +1,8 @@
 ### Hi there 👋 It's me !!!
 <p align="center">
-  ![Xnuvers007 GitHub stats](https://github-readme-stats.vercel.app/api?username=xnuvers007&show_icons=true&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=xnuvers007&show_icons=true&theme=dark" alt="Xnuvers007 GitHub stats">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xnuvers007&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnuvers007&langs_count=10" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
 </p>
 
 **you can visit my** <h1> [Website!](https://mykingbee.blogspot.com/) </h1>
