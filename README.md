@@ -10,7 +10,7 @@
   </audio
 </p>
 
-<h1><strong>You can visit </strong></h1> <h2> [My Website!](https://mykingbee.blogspot.com/) </h2>
+<h1><strong>You can visit </strong></h1> <h2><a href="https://mykingbee.blogspot.com/">My Website</a> </h2>
 
 <center>
 <p>Here are some ideas to get you started:
