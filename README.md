@@ -1,5 +1,12 @@
 ### Hi there 👋 It's me !!! <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+•Xnuvers007-☆.....;Nice+to+see+you....!&size=25">
 
+![Profile Viewers](https://gpvc.arturio.dev/Xnuvers007)
+
+☆ <b>VISTOR COUNT ☆
+  <h4 align="center">
+
+  <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xnuvers007&show_icons=true&theme=dark" alt="Xnuvers007 GitHub stats">
   
