@@ -5,7 +5,7 @@
 ☆ <b>VISTOR COUNT ☆
   <h4 align="center">
 
-  <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
+  <img src="https://profile-counter.glitch.me/Xnuvers007/count.svg" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xnuvers007&show_icons=true&theme=dark" alt="Xnuvers007 GitHub stats">
