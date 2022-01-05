@@ -17,6 +17,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=xnuvers007&show_icons=true&theme=dark" alt="Xnuvers007 GitHub stats">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnuvers007&langs_count=10&theme=radical&count_private=true" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xnuvers007&theme=dark" alt="xnuvers007" /></p>
   
   <audio loop="true" autoplay="true">
 	<source src="https://f.top4top.io/m_1874i0i0m0.mp3" type="audio/mpeg">
