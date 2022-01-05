@@ -1,6 +1,6 @@
 ### Hi there 👋 It's me !!! <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+•Xnuvers007-☆.....;Nice+to+see+you....!&size=25">
 
-![Profile Viewers](https://gpvc.arturio.dev/Xnuvers007)
+![Profile Viewers](https://komarev.com/ghpvc/?username=Xnuvers007&color=blue)
 
 ☆ <b>VISTOR COUNT ☆
   <h4 align="center">
