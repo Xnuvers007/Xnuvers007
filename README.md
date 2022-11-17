@@ -27,7 +27,7 @@
 
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="gif" />
 
-<h1><strong>You can visit </strong></h1> <h2><a href="https://myportofolio.xnuvers007.repl.co/">My Portfolio</a></h2> <h2><a href="https://mykingbee.blogspot.com/">My Website</a> </h2>
+<h1><strong>You can visit </strong></h1> <h2><a href="https://myportofolio.xnuvers007.repl.co/">My Portfolio</a></h2> <h2><a href="https://mykingbee.blogspot.com/">My Website</a></h2><h2><a href="https://xnuvers007.github.io/">My Github Io </a></h2><h2><a href="https://ndraeee25.000webhostapp.com/">My Hacking Lab web </a></h2>
 
 <center>
 <p>Here are some ideas to get you started:
