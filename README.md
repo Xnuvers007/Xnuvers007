@@ -19,6 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnuvers007&langs_count=10&theme=radical&count_private=true" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xnuvers007&theme=dark" alt="xnuvers007" /></p>
+	<p><img align="center" src="https://github.com/Xnuvers007/Xnuvers007/blob/main/snake-xnuvers007.svg" alt="Xnuvers007" /></p>
+	  
+	  <!-- source snake IMG = https://platane.github.io/snk -->
   
   <audio loop="true" autoplay="true">
 	<source src="https://f.top4top.io/m_1874i0i0m0.mp3" type="audio/mpeg">
