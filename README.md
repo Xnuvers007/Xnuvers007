@@ -1,5 +1,7 @@
 ### Hi there 👋 It's me !!! <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+•Xnuvers007-☆.....;Nice+to+see+you....!&size=25">
 
+<a href="https://github.com/Xnuvers007" target="_blank"><img src="https://cardivo.vercel.app/api?name=Xnuvers007&description=Hi%2C%20I%27m%20Xnuvers007%20and%20I%20love%20watching%20Anime%2C%20Gaming%2C%20Studying.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https%3A%2F%2Fi.ibb.co%2FX5Z7XLk%2F61f5ccad28bad6756d7f05daf98a2b1a.jpg&backgroundColor=%23ecf0f1&instagram=Indradwi.25&github=Xnuvers007&site=https%3A%2F%2Fmykingbee.blogspot.com&pattern=leaf&colorPattern=%23eaeaea" /></a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xnuvers007&theme=discord" alt="xnuvers007" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
